@@ -78,14 +78,14 @@ Team presentation slides: [Manoa Carpool Team Presentation (PowerPoint)](slides/
 
 ## Team Contract
 
-Read our [Team Contract](https://docs.google.com/document/d/1Sh1EV1R1MCe--T1fCYtrW1gV9HZyTo2VF9naOiUgK1s/edit?usp=sharing).
+Read our [Team Contract](https://docs.google.com/document/d/1Sh1EV1R1MCe--T1fCYtrW1gV9HZyTo2VF9naOiUgK1s/edit?tab=t.0).
 
 ## Team
 
 Manoa Carpool is built by:
 
 * [Aaron Mundanilkunathil](https://github.com/A-Mundanilkunathil)
-* Robert Keyes
+* [Robert Keyes](https://github.com/CMDAwesome)
 * [Donald Sanchez](https://github.com/donaldsanchez11)
 * [Samuel Mattis](https://github.com/smattis96734)
 
