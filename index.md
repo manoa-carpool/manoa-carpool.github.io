@@ -22,17 +22,19 @@
 
 ## Deployment
 
-The app will be deployed to Vercel for Milestone 1. The link will go here once it is live.
+Manoa Carpool is live on Vercel: **[manoa-carpool.vercel.app](https://manoa-carpool.vercel.app)**
+
+Every push to `main` redeploys the app automatically. To look around, sign in with the sample account `john@foo.com` (password `changeme`). The data on the site is fake sample data for now.
 
 ## User Guide
 
-These are the mockups for Milestone 1. They show the pages we are building.
+These screenshots show the pages we are building. Pages marked **(live)** are deployed on Vercel now; the others are mockups that will be replaced with screenshots as the pages are built.
 
-### Landing page
+### Landing page (live)
 
-New visitors learn what Manoa Carpool is and can sign up with their UH email or sign in.
+New visitors learn what Manoa Carpool is, see rides that are open now, and can sign up with their UH email or sign in.
 
-![Landing page mockup](images/mockup-landing.png)
+![Landing page](images/m1-landing.png)
 
 ### Find a Ride (passenger page)
 
@@ -40,11 +42,11 @@ Riders search by destination, starting area, day, and arrival time, can limit re
 
 ![Find a Ride page mockup](images/mockup-passenger.png)
 
-### Drive (driver page)
+### Drive (driver page, live)
 
 Drivers post a ride, accept or decline seat requests, and see their points, students driven, and miles.
 
-![Drive page mockup](images/mockup-driver.png)
+![Drive page](images/m1-drive.png)
 
 ### Leaderboard
 
@@ -73,6 +75,10 @@ The application code lives in [manoa-carpool/manoa-carpool](https://github.com/m
 Milestone 1 sets up the project, the landing page, and mockups of the main pages. The work is tracked as issues on the [M1 project board](https://github.com/orgs/manoa-carpool/projects/1). Every issue has its own branch named `issue-XX`.
 
 ![M1 project board](images/m1-project-board.png)
+
+### Milestone 2: Real data
+
+Milestone 2 connects the pages to the database: posting rides, requesting seats, search and filters, profiles, and the leaderboard, plus Playwright tests. The planned work is on the [M2 project board](https://github.com/orgs/manoa-carpool/projects/2).
 
 Team presentation slides: [Manoa Carpool Team Presentation (PowerPoint)](slides/manoa-carpool-team-presentation.pptx)
 
